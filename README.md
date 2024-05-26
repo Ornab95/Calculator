@@ -1,1 +1,2 @@
 # Calculator
+Our JavaFX Calculator is a sleek and efficient application designed for quick and accurate arithmetic operations. With a clean and intuitive interface, users can perform basic calculations such as addition, subtraction, multiplication, and division. The calculator features a responsive design, ensuring a smooth experience across different devices and screen sizes. Built with JavaFX, it offers robust performance and easy usability. Ideal for both everyday use and educational purposes, this calculator simplifies your computational tasks effortlessly.
